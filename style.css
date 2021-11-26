@@ -1,0 +1,36 @@
+.refreshButtonContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.display  {
+  height: 50px;
+  width: 170px;
+  font-size: 40px;
+  align-items: right;
+  justify-content: right;
+  border: gray;
+  text-align: right;
+  border-style: solid;
+}
+
+
+
+.clear {
+  height: 30px;
+  width: 175px;
+  background-color: rgba(86, 4, 250, 0.201);
+}
+
+.number  {
+  height: 30px;
+  width: 40px;
+
+}
+
+.operator {
+  height: 30px;
+  width: 40px;
+  background-color: rgba(86, 4, 250, 0.201);
+}
